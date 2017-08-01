@@ -7,4 +7,4 @@
 
 3、ViewPager结合ImageView，以及增加一些自定义的View使用，最典型的便是应用启动导航页
 
-![效果演示图](/images/demo.gif)
+![效果演示图](/images/presentation.gif)

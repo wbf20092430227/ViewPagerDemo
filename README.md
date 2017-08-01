@@ -6,5 +6,3 @@
 2、ViewPager结合Fragment使用
 
 3、ViewPager结合ImageView，以及增加一些自定义的View使用，最典型的便是应用启动导航页
-
-![](http://upload-images.jianshu.io/upload_images/5521037-21da1eabd6d67968.gif?imageMogr2/auto-orient/strip)

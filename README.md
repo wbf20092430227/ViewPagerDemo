@@ -10,4 +10,4 @@
 为了更好的理解ViewPager的使用，我特地写了一个模拟三种情况的demo供有需要的朋友参考。万变不离其宗，所有复杂的功能都可以在着基础上更改以达到效果。
 首先给 大家上图看一下基本的效果：
 
-![效果演示图](/images/demo.gif)
+![](http://upload-images.jianshu.io/upload_images/5521037-b872920ff877b763.gif?imageMogr2/auto-orient/strip)
